@@ -1,0 +1,10 @@
+.one { background-color: yellow;
+height: 100px;}
+
+ .two { background-color: red;
+height: 100px;
+position:static;
+top: 30px; }
+
+.tree { background-color: yellow;
+height: 100px; }

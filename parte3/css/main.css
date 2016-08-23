@@ -1,0 +1,23 @@
+.one{ background-color: yellow;
+      width: 200px;
+      height: 100px;
+       position: absolute;
+       top: 15px;}
+
+.two { background-color: red;
+	   width: 200px;
+       height: 100px;
+       position: absolute;
+       bottom:0px ;
+       top:15px; 
+       left: 250px;
+       right:0px ;
+    }  
+.tree { background-color: yellow;
+      width: 200px;
+      height: 100px;
+      position: absolute; 
+      left:500px;
+      bottom: 0px;
+      top: 15px;
+      right: 0px ; }      
